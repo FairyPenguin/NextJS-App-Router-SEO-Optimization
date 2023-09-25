@@ -1,5 +1,6 @@
 # NextJS-App-Router-SEO-Optimization
 
+```javascrip
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.dummyblog.com"),
   title: {
@@ -11,3 +12,4 @@ export const metadata: Metadata = {
     google: "google-site-verification=878787878",
   },
 };
+```
